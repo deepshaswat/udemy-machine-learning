@@ -1,0 +1,3 @@
+ToDo list file:
+
+27-10-2017: To update all the notes for python and add personal notes based of the learning till date.
