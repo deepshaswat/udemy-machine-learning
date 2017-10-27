@@ -1,0 +1,8 @@
+R LANG
+
+Data Preprocessing
+
+Setting working directory
+Importing the dataset
+No need to segregate the metrics and the variables. (Will be discussed in further sections)
+

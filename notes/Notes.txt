@@ -1,0 +1,20 @@
+Notes
+
+
+Notes: 
+1. Importing the numpy, matplot, and pandas 
+2. Panda is used to read the csv file using the method: pandas.read_csv() and stored as dataset. 
+3. Creating variables by selecting the columns using the iloc method. This method is called on the dataset
+4. Taking care of the missing data using the sklearn.preprocessing imputed function
+5. Encoding the categorial data using the label encoder and onehotencoder 
+ 
+
+To Read:
+1. Euclidean distance
+    1. Standardization and Normalization
+
+
+Simple Linear Regression
+
+
+y = b0 + b1*x		- Similar to the eq for straight line
